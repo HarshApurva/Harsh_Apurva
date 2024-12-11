@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HarshApurva
+- 👀 I’m interested in Bioinformatics 
+- 🌱 I’m currently learning B.tech Bioinformatics and Data Science
+- 📫 How to reach me harshapurva28@gmail.com
